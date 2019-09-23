@@ -11,5 +11,9 @@ Two images of a banana were compared with an expected high perceptual similarity
 
 Some helpful resources:
                         http://www.pigeon.psy.tufts.edu/avc/dblough/
+                        
                         https://pythonspot.com/object-detection-with-templates/
                         
+                        https://pillow.readthedocs.io/en/3.1.x/reference/Image.html
+                        
+                        https://machinelearningmastery.com/how-to-load-and-manipulate-images-for-deep-learning-in-python-with-pil-pillow/
