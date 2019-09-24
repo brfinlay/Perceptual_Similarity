@@ -58,7 +58,7 @@ def compare_images(imageA, imageB, title):
     plt.suptitle("MSE: %2f, SSIM: %2f" %(m, s))
     # Show imageA
     ax = fig.add_subplot(1, 2, 1)
-    plt.imshow(imageA, cmap = plt.cm.gray) # ?cmap?
+    plt.imshow(imageA, cmap = plt.cm.gray) 
     plt.axis("off")
     #Show imageB
     ax = fig.add_subplot(1, 2, 2)
