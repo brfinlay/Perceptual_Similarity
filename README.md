@@ -6,7 +6,6 @@ SSIM measures the perceptual difference between two images by quantifying the **
 
 A SSIM score of 1 = perfect perceptual similarity (www.imatest.com/docs/ssim/).
 
-Two images of a banana were compared with an expected high perceptual similarity score. Images of a lion and tiger were compared and expected to score moderate perceptual similarity.
 
 
 Some helpful resources:
